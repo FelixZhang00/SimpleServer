@@ -5,6 +5,12 @@ vcss.type = "text/css";
 vcss.id = '__ks_css_video';
 
 
+    //JavaScript方法，弹出对话框显示信息
+    function myFunction()
+    {
+        alert("Hello World!");
+    }
+
 if(document.location.host.match(/pptv/)){
     vcss = document.createElement('style');
     vcss.textContent="@-webkit-keyframes nodeInserted{from{outline-color:#fff}to{outline-color:#000}}video{-webkit-animation-duration:0.01s;-webkit-animation-name:nodeInserted}\
