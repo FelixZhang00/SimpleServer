@@ -1,3 +1,7 @@
 {
-"test":111
+  "update": {
+  	"version":2,
+  	"name":"mini_search_1.1.0"
+  	"url":"https://github.com/FelixZhang00/My_Douban/blob/release/apk/my_douban.apk?raw=true"
+  }
 }
