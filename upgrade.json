@@ -1,7 +1,24 @@
 {
-  "update": {
-  	"version":2,
-  	"name":"mini_search_1.1.0",
-  	"url":"https://github.com/FelixZhang00/My_Douban/blob/release/apk/my_douban.apk?raw=true"
-  }
+    "data": {
+        "app_list": [
+        ],
+        "app_version": "100",
+        "app_version_build": "100",
+        "app_version_code": 100,
+        "desc": "这是一条测试的更新",
+        "download_link": "https://github.com/FelixZhang00/My_Douban/blob/release/apk/my_douban.apk?raw=true",
+        "force": 0,
+        "md5": "",
+        "next_notify_time": 86400,
+        "next_req_time": 180,
+        "size": 0
+    },
+    "result": {
+        "code": 0,
+        "costtime": 3,
+        "msg": "",
+        "next_notify_time": 86400,
+        "next_req_time": 180,
+        "ret": 0
+    }
 }
